@@ -1,0 +1,18 @@
+[
+  { "timestamp": 1772323200, "price": 100.0 },
+  { "timestamp": 1772326800, "price": 100.8 },
+  { "timestamp": 1772330400, "price": 99.7 },
+  { "timestamp": 1772334000, "price": 100.4 },
+  { "timestamp": 1772337600, "price": 96.2 },
+  { "timestamp": 1772341200, "price": 98.1 },
+  { "timestamp": 1772344800, "price": 100.5 },
+  { "timestamp": 1772348400, "price": 103.8 },
+  { "timestamp": 1772352000, "price": 101.2 },
+  { "timestamp": 1772355600, "price": 99.4 },
+  { "timestamp": 1772359200, "price": 95.7 },
+  { "timestamp": 1772362800, "price": 97.6 },
+  { "timestamp": 1772366400, "price": 100.2 },
+  { "timestamp": 1772370000, "price": 104.1 },
+  { "timestamp": 1772373600, "price": 101.0 },
+  { "timestamp": 1772377200, "price": 98.9 }
+]
